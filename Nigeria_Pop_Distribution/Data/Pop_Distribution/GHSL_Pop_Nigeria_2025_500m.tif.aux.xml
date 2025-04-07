@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>population_count</Description>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14642.284545898</MDI>
+      <MDI key="STATISTICS_MEAN">34.624682329718</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">248.45464308419</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">64.33</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

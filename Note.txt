@@ -1,0 +1,12 @@
+++ Africa_Pop_Distribution: For Residential Population Distribution in Africa.
+
+++ Nigeria_Pop_Distribution: For Residential Population Distribution in Nigeria.
+
+++ Maps: Final maps for both Africa and Nigeria.
+
+
+The Distribution of the population values (minimum and maximum values) depends on the export resolution or scale of the population raster. Therefore, it is essential to follow the best practices described by Ujaval Gandhi/SpatialThoughts (https://spatialthoughts.com/2021/05/13/aggregating-population-data-gee/) for aggregating gridded population data. It has been implemented in the scripts in this repository.
+
+
+If you are not familiar with Python, you can download the population layer in tiles manually from this website: https://human-settlement.emergency.copernicus.eu/download.php?ds=pop
+

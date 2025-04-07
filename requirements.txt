@@ -1,0 +1,13 @@
+# Python 
+python>=3.12.7
+ipykernel
+notebook
+
+# Earth Engine & Geospatial Analysis
+earthengine-api
+geemap
+geedim
+pandas
+geopandas
+pyproj
+
