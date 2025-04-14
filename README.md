@@ -19,3 +19,5 @@ Create a (virtual) python environment and install the libraries/dependencies, pr
 Step 1: Download and process the population data using the Python script. Then export it.
 
 Step 2: Open the population raster layer in QGIS and apply the ready-made style. You may need to adjust the values in the style/symbology if you are using it for a different study area.
+
+Video Tutorial Link: https://youtu.be/-Rdi1ofAelo
